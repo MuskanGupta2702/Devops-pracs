@@ -3,7 +3,7 @@ class AddTwoMatrix
 {
   public static void main(String args[])
   {
-    int m, n, c, d,s=0;
+    int m, n, c, d,s=0
 	float avg;
     Scanner in = new Scanner(System.in);
 
